@@ -1,0 +1,1 @@
+*/5 * * * * /bin/bash -lc 'cd /home/coji/progs/weather_sg && ruby weather_sg.rb'
